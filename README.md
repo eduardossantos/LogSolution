@@ -1,5 +1,5 @@
-# EnterpriseApplicationLog
-Enterprise Application Log with RabbitMQ, LogStash, ElasticSearch and Kibana
+# LogSolution
+Log solution with RabbitMQ, LogStash, ElasticSearch and Kibana
 
 ## Releases and Release Notes
 
